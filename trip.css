@@ -321,3 +321,12 @@ i{
 .book:hover {
     background-color: rgb(224, 172, 75);
 }
+@media (max-width: 480px) {
+ .price p{
+font-size: 0.5rem;
+ }
+ .price strong{
+font-size: 0.7rem;
+ }
+
+}

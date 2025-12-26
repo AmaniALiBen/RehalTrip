@@ -58,4 +58,9 @@ body{
     
 }
 
+@media (max-width: 480px) {
+ .booking button{ 
+    font-size: 0.8rem;
+ }
 
+}
